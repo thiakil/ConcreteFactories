@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "concretefactories",
+    "name": "Concrete Factories",
+    "description": "1.12 factories (recipes and items) that are not defined in json",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Thiakil"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": [
+      ""
+    ]
+  }
+]
